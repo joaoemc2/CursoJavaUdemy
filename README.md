@@ -1,5 +1,6 @@
+#####################> ANOTAÇÕES <#####################
+
 Método printf – especificadores de formato
-Na tabela abaixo temos alguns dos especificadores de formato mais comuns empregados pelo método printf():
 
 Especificador	Formato
 %s	String de caracteres
